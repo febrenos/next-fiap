@@ -1,5 +1,5 @@
 import React from "react";
-import Input from "../../Inputs/index";
+import Input from "../Inputs/index";
 import Logo from "../../img/where2GoTxt.png";
 import Btn from "../Btn";
 import * as Styled from '../FormLogin/style';

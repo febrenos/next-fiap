@@ -10,7 +10,6 @@ import SelectBtns from '../../components/SelectBtns'
 import CardApresentation from '../../components/Cards/CardApresentation/index'
 import Form from '../../components/FormLogin/index'
 import FormRegister from '../../components/FormSignup'
-import Input from '../../Inputs'
 
 export default function() {
     const [isOpen, setIsOpen] = useState(false);
